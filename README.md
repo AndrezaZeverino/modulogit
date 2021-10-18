@@ -1,5 +1,2 @@
-Meu segundo arquivo com Git
+Meu primeiro arquivo com Git alterado e atualizado
 
-adicionando infos neste arquivo 
-
-alguma nova linha legal 
